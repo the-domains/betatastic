@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-17T21:35:41.875Z'
+datePublished: '2016-08-17T21:37:06.481Z'
 sourcePath: _posts/2016-04-16-chocolate-skateboards-dqm-mast-brothers.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar
-hasPage: false
+hasPage: true
 keywords:
   - chocolate
   - dqm
@@ -18,7 +16,7 @@ keywords:
   - cacao
 related: []
 author: []
-dateModified: '2016-08-17T21:35:41.282Z'
+dateModified: '2016-08-17T21:37:05.993Z'
 title: Chocolate Skateboards + DQM + Mast Brothers
 app_links: []
 publisher:
@@ -36,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: chocolate-skateboards-dqm-mast-brothers/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

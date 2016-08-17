@@ -1,4 +1,3 @@
-layout_spectrum: 0.7144200182519853
 typography_spectrum: 0.1017571750562638
 color:
   brandStrength: 0.6698292691726238
@@ -11,4 +10,6 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+layout_spectrum: 0.7144200182519853
 name: Betatastic
+title: Welcome

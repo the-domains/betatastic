@@ -1,4 +1,4 @@
-typography_spectrum: 0.1017571750562638
+typography_spectrum: 0.542872159043327
 color:
   brandStrength: 0.6698292691726238
   lightness: 0.7935942623298615
@@ -10,7 +10,7 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
-layout_spectrum: 0.7144200182519853
+layout_spectrum: 0.5263726997654885
 name: Betatastic
 navigation:
   - name: Chocolate Skateboards
